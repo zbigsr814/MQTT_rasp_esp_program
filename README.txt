@@ -1,4 +1,7 @@
 # MQTT_rasp_esp_program
+
+Program jest drugą częścią mojej pracy magisterskiej, wraz z django_aplikacją.
+
 Programy dla Raspberry Pi i ESP3266. Programy realizują komunikację przez protokół MQTT między urządzeniami. Dane z czujników temperatury i naświetlenia odbierane są przez ESP. Przez protokół MQTT wysyłane są do Raspberry Pi. RPi wysyła zgromadzone dane do bazy danych MySQL na serwerze HTTP Apache2 na RPi.
 
 URUCHOMIENIE PROJEKTU
